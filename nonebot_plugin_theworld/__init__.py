@@ -23,7 +23,7 @@ __plugin_meta__ = PluginMetadata(
     """,
     type="application",
     homepage="https://github.com/A-kirami/nonebot-plugin-theworld",
-    supported_adapters={"~.onebot.v11"},
+    supported_adapters={"~onebot.v11"},
 )
 
 RES_PATH = Path(__file__).parent / "resources"
